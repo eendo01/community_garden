@@ -1,8 +1,11 @@
 header {
     background-color: #A1CCA5;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 h1 {
     text-align: center;
+    font-size: 50px;
     font-family: "Playfair Display", serif;
 }
 ul {
@@ -25,7 +28,6 @@ ul {
   }
   
   li a:hover {
-    background-color: #709775;
-    text-decoration: underline;
-    color: #A1CCA5;
+    background-color: #415D43;
+    color: #ffffff;
   }
