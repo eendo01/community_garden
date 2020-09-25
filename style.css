@@ -12,12 +12,15 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: hidden;
     font: 15px Verdana, sans-serif;
+    background-color: #8FB996;
     font-weight: bold;
   }
   li {
     float: left;
     display: inline;
+    background-color: #8FB996;
   }
   li a {
     display: block;
