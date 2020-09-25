@@ -15,7 +15,6 @@ ul {
     display: inline;
   }
   li a {
-    background-color: #f0f4ff;
     display: block;
     color: #111;
     text-align: center;
@@ -24,6 +23,7 @@ ul {
   }
   
   li a:hover {
+    background-color: #a0d690;
     text-decoration: underline;
-    color: #516cbd;
+    color: #3c662f;
   }
