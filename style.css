@@ -5,7 +5,7 @@ header {
 h1 {
     text-align: center;
     font-size: 50px;
-    font-family: "Open Sans Black", sans-serif;
+    font-family: "Georgia", sans-serif;
     color: #111D13;
 }
 ul {
@@ -13,7 +13,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    font: 15px "Open Sans", sans-serif;
+    font: 15px Verdana, sans-serif;
     background-color: #8FB996;
     font-weight: bold;
   }
