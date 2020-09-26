@@ -41,7 +41,14 @@ ul {
 
   .responsive {
     width: 100%;
-    max-width: 200px;
+    max-width: 500px;
     height: auto;
     align-self: center;
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
   }
