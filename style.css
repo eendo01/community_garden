@@ -5,7 +5,12 @@ header {
 h1 {
     text-align: center;
     font-size: 50px;
-    font-family: "Georgia", sans-serif;
+    font-family: "Georgia", serif;
+    color: #111D13;
+}
+h2 {
+    font-size: 20px;
+    font-family: "Georgia", serif;
     color: #111D13;
 }
 ul {
@@ -55,6 +60,11 @@ li a:hover {
 }
 p {
     font: 12px Verdana, sans-serif;
+}
+.body-div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 footer {
     display: block;
