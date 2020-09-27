@@ -62,9 +62,10 @@ p {
     font: 12px Verdana, sans-serif;
 }
 .body-div {
-    margin: auto;
+    margin-left: 10%;
+    margin-right: 10%;
     width: 50%;
-    border: 3px solid green;
+    padding: 10px;
 }
 footer {
     display: block;
