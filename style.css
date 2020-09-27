@@ -52,11 +52,6 @@ li a:hover {
     align-self: center;
 }
 
-.center {
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-}
 p {
     font: 12px Verdana, sans-serif;
 }
