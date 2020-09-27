@@ -21,6 +21,7 @@ li {
     float: left;
     display: inline;
     background-color: #8FB996;
+    align-content: right;
 }
 li a {
     display: block;
